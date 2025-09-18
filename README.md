@@ -1,4 +1,4 @@
-# VHK STEM Website
+# VHK STEM (Matik) Website
 
 Created using [Entu SSG](https://entu.site/)
 
