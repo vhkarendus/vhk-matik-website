@@ -22,8 +22,9 @@
                         ul.dropdown Teams
                             div.teams-dropdown
                                 for j in i 
-                                    li
-                                        a(href=j.url)=j.title
+                                    if j.showInNav
+                                        li
+                                            a(href=j.url)=j.title
 
         if locale == "en"
             for i in self.nav
@@ -45,8 +46,9 @@
                         ul.dropdown Meeskonnad
                             div.teams-dropdown
                                 for j in i 
-                                    li
-                                        a(href=j.url)=j.title
+                                    if j.showInNav
+                                        li
+                                            a(href=j.url)=j.title
 
 
     .nav-lang.nav-content-div

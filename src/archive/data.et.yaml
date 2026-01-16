@@ -10,7 +10,14 @@ teams:
     title: ÜksJupp
     url: /et/arhiiv/jupp
     text: Meeskond mis loodi juba MATIKu algusaegadel. On käinud kahel korral Inglismaal võistlemas, viimane kord 2024. aasta sügisel.
-
+  beegreen: 
+    title: BeeGreen
+    url: /et/arhiiv/beegreen     
+    text: BeeGreen (varem tuntud kui Tiim McQueen) oli meeskond, kes ehitas oma elektriauto nullist kahe aasta jooksul. Nad võistlesid Belgias 25. mail 2025 ja lõpetasid 50 auto seas 25. kohal.
+  cotton: 
+    title: Cotton Candy Cruiser
+    url: /et/arhiiv/pinkpython
+    text: Meeskond Cotton Candy Cruiser (varem tuntud kui Pink Python) loodi 2023. aasta sügisel. Meeskond restruktureeriti, mõned liikmed liideti uude meeskonda
 seeMore: Loe edasi
 
 gallery:

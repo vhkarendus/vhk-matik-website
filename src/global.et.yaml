@@ -8,15 +8,20 @@ nav:
   #   url: /et/kontakt
   teams:
     - title: BeeGreen
-      url: /et/tiimid/beegreen
+      url: /arhiiv/beegreen
+      showInNav: false
     - title: BeeGreen
       url: /et/tiimid/beegreen1 
+      showInNav: true
     - title: Cotton Candy Cruiser
-      url: /et/tiimid/pinkpython
+      url: /arhiiv/pinkpython
+      showInNav: false
     - title: Estimators
       url: /et/tiimid/estimators
+      showInNav: true
     - title: Vurts
       url: /et/tiimid/vurts
+      showInNav: true
   blog:
     title: Blogi
     url: /et/blogi
