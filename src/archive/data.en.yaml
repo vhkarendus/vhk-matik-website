@@ -13,7 +13,14 @@ teams:
     title: ÜksJupp
     url: /archive/jupp
     text: A group which was formed in the early days of VHK STEM. Competed in England twice with the last time being in the fall of 2024.
-
+  beegreen: 
+    title: BeeGreen
+    url: /archive/beegreen
+    text: BeeGreen (formerly known as Tiim McQueen) was a team that built their electric car from scratch over the span of two years. They competed in Belgium on May 25, 2025, and finished 25th out of 50.
+  cotton:  
+    title: Cotton Candy Cruiser
+    url: /archive/pinkpython
+    text: The team Cotton Candy Cruiser (formerly known as Pink Python) was established in the fall of 2023. The team was restructured, with a few members merging into a new team.
 seeMore: Read more
 
 gallery:

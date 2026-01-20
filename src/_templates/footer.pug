@@ -24,8 +24,9 @@
             ul Teams
                 div
                     for j in i 
-                        li(style="list-style-type: none; margin-left: .5em")
-                            a(href=j.url)=j.title
+                        if j.showInNav
+                            li(style="list-style-type: none; margin-left: .5em")
+                                a(href=j.url)=j.title
 
 .socials.footer-item
     h4= self.footer.contact

@@ -17,7 +17,19 @@ block content
                         h2= self.teams.jupp.title
                         p= self.teams.jupp.text
                         a.link-button(href=self.teams.jupp.url)= self.seeMore
-        
+                .beegreen.team-item
+                    img(src="/assets/beegreen/hero.webp" alt="BeeGreen team photo")
+                    .team-item-content
+                        h2= self.teams.beegreen.title
+                        p= self.teams.beegreen.text
+                        a.link-button(href=self.teams.beegreen.url)= self.seeMore
+                .cotton.team-item
+                    img(src="/assets/pinkpython/image_123650291.webp" alt="Cotton Candy Cruiser team photo")
+                    .team-item-content
+                        h2= self.teams.cotton.title
+                        p= self.teams.cotton.text
+                        a.link-button(href=self.teams.cotton.url)= self.seeMore
+    
         //- .gallery.container.container-m
         //-     h1= self.gallery.title
         //-     p= self.gallery.text
