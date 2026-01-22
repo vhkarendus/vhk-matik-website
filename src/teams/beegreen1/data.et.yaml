@@ -1,0 +1,41 @@
+path: "/tiimid/beegreen1"
+
+hero:
+  title: BeeGreen
+  text: "Uus tiim, ühine eesmärk ja auto, mis kasvab ideest teostuseni."
+
+team:
+  text: "## Meist
+
+   BeeGreen on sel aastal uue koosseisuga tiim, kes ehitab oma auto nullist. 
+   Me õpime, katsetame ja areneme koos, eesmärgiga luua midagi, mille üle saame uhked olla.
+    "
+
+memberTitle: "Meeskonna liikmed"
+
+members:
+  - name: "Hendrik Hansson"
+    role: "Elektroonika, juhtimismehhanism, 3D modelleerimine"
+    image: "/assets/beegreen1/hendrik.webp"
+  - name: "Lizett Vahter"
+    role: "Veebileht, telemeetria"
+    image: "/assets/beegreen1/lizett.webp"
+  - name: "Brigita Tamm"
+    role: "Sotsiaalmeedia, rattad, pidurid"
+    image: "/assets/beegreen1/brigita.webp"
+  - name: "Ester Vulla"
+    role: "Sponsorid, sotsiaalmeedia"
+    image: "/assets/beegreen1/ester.webp"
+  - name: "Grete Närep"
+    role: "Proovisõitude korraldamine, transport"
+    image: "/assets/beegreen1/grete.webp"
+  - name: "Kristian Kirikal"
+    role: "Elektroonika, komposiitmaterjalid, telemeetria"
+    image: "/assets/beegreen1/kristian.webp"
+  - name: "Joonas Rebane"
+    role: "Sponsorid, analüüs"
+    image: "/assets/beegreen1/joonas.webp"
+  - name: "Rico Tiks"
+    role: "Mehaanika"
+    image: "/assets/beegreen1/rico.webp"
+

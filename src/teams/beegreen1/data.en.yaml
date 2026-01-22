@@ -1,0 +1,47 @@
+path: "/teams/beegreen1"
+
+aliases:
+  - "/en/teams/beegreen1"
+
+hero:
+  title: BeeGreen
+  text: "A new team, one shared goal, and a car developed from concept to completion."
+
+team:
+  text: "
+    ## About us
+
+   This year, BeeGreen is a team with a new line-up, building our car from scratch. 
+   We learn, experiment, and grow together with the goal of creating something we can truly be proud of.
+    "
+
+photos: "Photos"
+memberTitle: "Team Members"
+
+members:
+   - name: "Hendrik Hansson"
+     role: "Electronics, steering mechanism, 3D modeling"
+     image: "/assets/beegreen1/hendrik.webp"
+   - name: "Lizett Vahter"
+     role: "Website, telemetry"
+     image: "/assets/beegreen1/lizett.webp"
+   - name: "Brigita Tamm"
+     role: "Social media, wheels, brakes"
+     image: "/assets/beegreen1/brigita.webp"
+   - name: "Ester Vulla"
+     role: "Sponsors, social media"
+     image: "/assets/beegreen1/ester.webp"
+   - name: "Grete Närep"
+     role: "Organizing test drives, transportation"
+     image: "/assets/beegreen1/grete.webp"
+   - name: "Kristian Kirikal"
+     role: "Electronics, composite materials, telemetry"
+     image: "/assets/beegreen1/kristian.webp"
+   - name: "Joonas Rebane"
+     role: "Sponsors, analysis"
+     image: "/assets/beegreen1/joonas.webp"
+   - name: "Rico Tiks"
+     role: "Mechanics"
+     image: "/assets/beegreen1/rico.webp"
+
+

@@ -2,44 +2,54 @@ path: "/tiimid/estimators"
 
 
 hero:
-  title: Estimators
+  title: ESTimators
   text: "Asutatud 2024. aastal"
 
 team:
   text:
-    "## Meist
+    "## Meist 
 
-    Oleme uus tiim
+    See aasta alustas suurte ootuste ja paljude ideedega uus meeskond, mille nimeks valiti ESTimators.
 
 
-    [Email: estimators.matik@gmail. com]
+    Me armastame kirju. Võta meiega ühendust!
+
+    Email: estimators.matik@gmail.com
     
     [Instagram](https://www.instagram.com/estimators_vhk/#)"
 
 memberTitle: "Meeskonna liikmed"
 
 members:
-  - name: "Kenneth Urban"
-    role: "Veebilehe Arendus"
-    image: "/assets/avatar.webp"
-    imageChange: "/assets/avatar.webp"
-  - name: "Georg Oopkaup"
-    role: "Üleüldine Järelvalve"
-    image: "/assets/avatar.webp"
-    imageChange: "/assets/avatar.webp"
-  - name: "Karl Villem Kaal"
-    role: "Keredisaini Abi"
-    image: "/assets/avatar.webp"
-    imageChange: "/assets/avatar.webp"
-  - name: "Laur Mattias Jüriöö"
-    role: "Keredisain, Telemeetria ja Elektroonika"
-    image: "/assets/avatar.webp"
-    imageChange: "/assets/avatar.webp"
-  - name: "Illia Yaremenko"
-    role: "Turundus ja Sotsiaalmeedia"
+  - name: "Kaspar Tiinas"
+    role: "Veebilehe Arendus & Telemeetria"
     image: "/assets/avatar.webp"
     imageChange: "/assets/avatar.webp"
   - name: "Margus Möller"
-    role: "Mehaanika"
+    role: "Kere & Mehaanika"
+    image: "/assets/avatar.webp"
+    imageChange: "/assets/avatar.webp"
+  - name: "Laur Mattias Jüriöö"
+    role: "3D Modeleerimine & Elektroonika"
+    image: "/assets/avatar.webp"
+    imageChange: "/assets/avatar.webp"
+  - name: "Konrad Erik Hõbemägi"
+    role: "Turundus & Sotsiaalmeedia"
+    image: "/assets/avatar.webp"
+    imageChange: "/assets/avatar.webp"
+  - name: "Mirell Pilve"
+    role: "Veebilehe Arendus & Turundus"
+    image: "/assets/avatar.webp"
+    imageChange: "/assets/avatar.webp"
+  - name: "Margaret Palmiste"
+    role: "Turundus & Kujundus"
+    image: "/assets/avatar.webp"
+    imageChange: "/assets/avatar.webp"
+  - name: "Eliise Marie Valdi"
+    role: "Kujundus"
+    image: "/assets/avatar.webp"
+    imageChange: "/assets/avatar.webp"
+  - name: "Magnus Müller"
+    role: "Turundus"
     image: "/assets/avatar.webp"
     imageChange: "/assets/avatar.webp"

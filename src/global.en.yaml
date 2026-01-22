@@ -8,13 +8,21 @@ nav:
   #   url: /contact
   teams:
     - title: BeeGreen
-      url: /teams/beegreen
+      url: /archive/beegreen
+      showInNav: false   #et ei näitaks vanu tiime navbaris
+    - title: BeeGreen
+      url: /teams/beegreen1
+      showInNav: true    
     - title: Cotton Candy Cruiser
-      url: /teams/pinkpython
+      url: /archive/pinkpython
+      showInNav: false
     - title: Estimators
       url: /teams/estimators
+      showInNav: true    
     - title: Vurts
       url: /teams/vurts
+      showInNav: true    
+      
   blog:
     title: Blog
     url: /blog
