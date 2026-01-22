@@ -32,7 +32,7 @@ or with a bash script:
 To host the site locally run:
 
 ```shell
-npm run prebulid && npm run dev
+npm run prebuild && npm run dev
 ```
 
 or with a bash script:

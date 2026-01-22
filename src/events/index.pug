@@ -1,0 +1,29 @@
+extends /_templates/layout.pug
+
+block content 
+
+    .content
+        .container
+            h1= self.eventTitle
+            
+            img(src=self.eventImage)
+
+            p= self.eventText
+
+            if self.timetable
+                table.timetable
+                    thead
+                        tr
+                            //- th= 'Time'
+                            th= 'Speaker'
+                            th= 'Topic'
+                            th= 'Organization'
+                            //- th= 'Duration'
+                    tbody
+                        each item in self.timetable
+                            tr
+                                //- td= item.time
+                                td= item.speaker
+                                td= item.topic
+                                td= item.organization
+                                //- td= item.duration
