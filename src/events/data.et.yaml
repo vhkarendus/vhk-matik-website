@@ -6,9 +6,11 @@ eventText: Vanalinna Hariduskolleegium ja Miikaeli Ühendus kutsuvad Teid osalem
 
 eventImage: /assets/vhkinseneeriapaev2026.png
 
+timetableText: Esialgne päevakava on järgmine kui mõned esinejad ning teemad on kinnitamise käigus.
+
 timetable: 
 - time: ""
-  speaker: "Anu Nigesen, VHK"
+  speaker: "Anu Nigesen"
   topic: "Tervitussõnad"
   organization: "VHK, direktor"
   duration: "5 min"

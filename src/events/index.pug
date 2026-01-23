@@ -10,15 +10,18 @@ block content
 
             p= self.eventText
 
+            h3= self.timetableText
+
             if self.timetable
                 table.timetable
                     thead
                         tr
-                            //- th= 'Time'
-                            th= 'Speaker'
-                            th= 'Topic'
-                            th= 'Organization'
-                            //- th= 'Duration'
+                            //- th= 'Kellaaeg'
+                            th= 'Sõnumi edastaja'			
+
+                            th= 'Sõnumi sisu'
+                            th= 'Organisatsioon, amet'
+                            //- th= 'Aeg (min)'
                     tbody
                         each item in self.timetable
                             tr
