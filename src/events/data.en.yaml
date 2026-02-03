@@ -16,20 +16,8 @@ timetable:
   duration: "5 min"
 
 - time: ""
-  speaker: "Vello Koppel*"
-  topic: "HTM hariduspoliitika"
-  organization: "HTM, asekantsler"
-  duration: "10 min"
-
-- time: ""
-  speaker: "-"
-  topic: "KOV roll- Huviharidus"
-  organization: "Tallinna LV"
-  duration: "10 min"
-
-- time: ""
-  speaker: "Liina Kanter**"
-  topic: "Inseneriakadeemia"
+  speaker: "Liina Kanter"
+  topic: "HTM ja Harno"
   organization: "HTM, osakonnajuhataja"
   duration: "10 min"
 
@@ -52,21 +40,27 @@ timetable:
   duration: "10 min"
 
 - time: ""
-  speaker: "-"
-  topic: "Reaalkooli praktika"
-  organization: "Reaalkool"
+  speaker: "Mait Palts"
+  topic: "Kaubandustööstus seisukohast"
+  organization: "Eesti Kaubanduskeskus tööstuskoda, peadirector "
   duration: "10 min"
+
+- time: ""
+  speaker: "-"
+  topic: "Vahepala hingekosutuseks"
+  organization: "VHK-MÜ"
+  duration: "5 min"
 
 - time: ""
   speaker: "Javier Ortin Cervera, gümnasistid"
   topic: "Inseneeria VHK-s"
-  organization: "Õpetaja ja õpilased 10.r, 11.r ja 12.r"
+  organization: "VHK, Õpetaja ja õpilased 10.r, 11.r ja 12.r"
   duration: "25 min"
 
 - time: ""
   speaker: "-"
   topic: "Gümnaasiumite ümarlaud"
-  organization: "Reaalkool, 21. Kool, GAG, ..."
+  organization: "Tallinna Reaalkool, Gustav Adolf Gümnaasium, Kadrina Keskkool…"
   duration: "20 min"
 
 - time: ""
@@ -79,4 +73,4 @@ timetable:
   speaker: "Irja Tuus"
   topic: "Kokkuvõtted"
   organization: "VHK, õppejuht"
-  duration: "10 min"
+  duration: "5 min"
