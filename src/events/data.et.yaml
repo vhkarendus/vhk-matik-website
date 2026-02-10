@@ -16,6 +16,18 @@ timetable:
   duration: "5 min"
 
 - time: ""
+  speaker: "Andrei Kante"
+  topic: "KOV roll- Huviharidus"
+  organization: "Tallinna abilinnapea"
+  duration: "10 min"
+
+- time: ""
+  speaker: "Helle Hallik"
+  topic: "HTM hariduspoliitika"
+  organization: "HTM, matemaatika valdkonna peaekspert"
+  duration: "10 min"
+
+- time: ""
   speaker: "Liina Kanter"
   topic: "HTM ja Harno"
   organization: "HTM, osakonnajuhataja"
@@ -28,22 +40,22 @@ timetable:
   duration: "5 min"
 
 - time: ""
-  speaker: "Enn Kerner"
-  topic: "Insener ühiskonnas"
-  organization: "EIL, asepresident"
-  duration: "10 min"
-
-- time: ""
   speaker: "Veljo Konnimois"
   topic: "Insener ettevõtluses"
   organization: "ETK, Radius Machining"
   duration: "10 min"
 
 - time: ""
-  speaker: "Mait Palts"
-  topic: "Kaubandustööstus seisukohast"
-  organization: "Eesti Kaubanduskeskus tööstuskoda, peadirector "
+  speaker: "Enn Kerner"
+  topic: "Insener ühiskonnas"
+  organization: "EIL, asepresident"
   duration: "10 min"
+
+- time: ""
+  speaker: "Sebastian Peterson, Kaspar Tiinas, Anna Metelskaja, Margus Möller, Javier Ortin"
+  topic: "Inseneeria VHK-s"
+  organization: "VHK, 10.R ja 11.R õpilased ja õpetaja"
+  duration: "25 min"
 
 - time: ""
   speaker: "-"
@@ -52,15 +64,9 @@ timetable:
   duration: "5 min"
 
 - time: ""
-  speaker: "Javier Ortin Cervera, gümnasistid"
-  topic: "Inseneeria VHK-s"
-  organization: "VHK, Õpetaja ja õpilased 10.r, 11.r ja 12.r"
-  duration: "25 min"
-
-- time: ""
-  speaker: "-"
+  speaker: "Evelin Teiva, Ivo Visak, Reivo Maasik, Raino Liblik, Javier Ortin"
   topic: "Gümnaasiumite ümarlaud"
-  organization: "Tallinna Reaalkool, Gustav Adolf Gümnaasium, Kadrina Keskkool…"
+  organization: "Tallinna Reaalkool, Mustamäe Riigigümnaasium, Kadrina Keskkool, Kuuresaare Gümnaasium"
   duration: "20 min"
 
 - time: ""
