@@ -31,9 +31,6 @@ nav:
   archive:
     title: Arhiiv
     url: /et/arhiiv
-  events:
-    title: VHK Inseneeripäev 2026
-    url: /vhkinseneeriapaev2026
 
 footer:
   sitemap: "Lingid"

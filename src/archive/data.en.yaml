@@ -21,6 +21,12 @@ teams:
     title: Cotton Candy Cruiser
     url: /archive/pinkpython
     text: The team Cotton Candy Cruiser (formerly known as Pink Python) was established in the fall of 2023. The team was restructured, with a few members merging into a new team.
+events:
+  title: Former events  
+  insePaev:
+    title: VHK Inseneeripäev 2026
+    url: /et/archive/vhkinseneeriapaev2026
+    text: VHK and Miikaeli Ühendus organized VHK Inseneeriapäev 2026
 seeMore: Read more
 
 gallery:
