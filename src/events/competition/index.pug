@@ -17,16 +17,16 @@ block content
                     thead
                         tr
                             //- th= 'Kellaaeg'
-                            th= 'Sõnumi edastaja'			
+                            th= 'Kellaaeg'			
 
-                            th= 'Sõnumi sisu'
-                            th= 'Organisatsioon, amet'
+                            th= 'Tegevus'
+                            th= 'Kestvus'
                             //- th= 'Aeg (min)'
                     tbody
                         each item in self.timetable
                             tr
                                 //- td= item.time
-                                td= item.speaker
+                                td= item.time
                                 td= item.topic
-                                td= item.organization
-                                //- td= item.duration
+                                //- td= item.organization
+                                td= item.duration
