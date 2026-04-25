@@ -1,0 +1,32 @@
+extends /_templates/layout.pug
+
+block content 
+
+    .content
+        .container
+            h1= self.eventTitle
+            
+            img(src=self.eventImage)
+
+            p= self.eventText
+
+            h3= self.timetableText
+
+            if self.timetable
+                table.timetable
+                    thead
+                        tr
+                            //- th= 'Kellaaeg'
+                            th= 'Sõnumi edastaja'			
+
+                            th= 'Sõnumi sisu'
+                            th= 'Organisatsioon, amet'
+                            //- th= 'Aeg (min)'
+                    tbody
+                        each item in self.timetable
+                            tr
+                                //- td= item.time
+                                td= item.speaker
+                                td= item.topic
+                                td= item.organization
+                                //- td= item.duration

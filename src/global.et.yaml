@@ -31,6 +31,9 @@ nav:
   archive:
     title: Arhiiv
     url: /et/arhiiv
+  events:
+    title: MATIK võistlus 2026
+    url: /et/competition2026
 
 footer:
   sitemap: "Lingid"

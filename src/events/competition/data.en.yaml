@@ -1,0 +1,46 @@
+path: "/en/competition2026"
+
+eventTitle: VHK competition 2026
+
+eventText: MATIK teams will test their creations on May 10, 2026, before the international competitions, competing against each other on the Tabasalu karting track.
+
+eventImage: /assets/blog/matik_tutvustus_3.jpg
+
+timetableText: The initial schedule is as follows.
+
+timetable: 
+- time: "9:00"
+  topic: "Scrutineering"
+  duration: "30 min"
+
+- time: "9:30"
+  topic: "Team briefing"
+  duration: "15 min"
+
+- time: "9:45"
+  topic: "Test run"
+  duration: "1 h"
+
+- time: "10:45"
+  topic: "Track closed"
+  duration: "15 min"
+
+- time: "11:00"
+  topic: "Track ready"
+  duration: "10 min"
+
+- time: "11:10"
+  topic: "Competition start"
+  duration: "1 h"
+
+- time: "12:10"
+  topic: "Competition end"
+  duration: "20 min"
+
+- time: "12:30"
+  topic: "Award ceremony"
+  duration: "30 min"
+
+- time: "13:00"
+  topic: "End"
+  duration: ""

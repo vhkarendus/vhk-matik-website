@@ -1,0 +1,46 @@
+path: "/et/competition2026"
+
+eventTitle: VHK võistlus 2026
+
+eventText: MATIK tiimid panevad end 10. mail 2026 proovile enne välisvistlusi, võisteldes omavahel Tabasalu kardirajal.
+
+eventImage: /assets/blog/matik_tutvustus_3.jpg
+
+timetableText: Esialgne päevakava on järgmine.
+
+timetable: 
+- time: "9:00"
+  topic: "Skrutineerimine"
+  duration: "30 min"
+
+- time: "9:30"
+  topic: "Team briefing"
+  duration: "15 min"
+
+- time: "9:45"
+  topic: "Proovisõit"
+  duration: "1 h"
+
+- time: "10:45"
+  topic: "Rada kinni"
+  duration: "15 min"
+
+- time: "11:00"
+  topic: "Rajale valmis"
+  duration: "10 min"
+
+- time: "11:10"
+  topic: "Võistluse algus"
+  duration: "1 h"
+
+- time: "12:10"
+  topic: "Võistluse lõpp"
+  duration: "20 min"
+
+- time: "12:30"
+  topic: "Autasustamine"
+  duration: "30 min"
+
+- time: "13:00"
+  topic: "Lõpp"
+  duration: ""
