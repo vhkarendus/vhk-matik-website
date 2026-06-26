@@ -24,6 +24,10 @@ events:
     title: VHK Inseneeripäev 2026
     url: /vhkinseneeriapaev2026
     text: Vanalinna Hariduskolleegiumi ja Miikaeli Ühenduse poolt korraldatud VHK Inseneeriapäev 2026
+  competition:
+    title: MATIK võistlus 2026
+    url: /et/competition2026
+    text: MATIK tiimid panevad end 10. mail 2026 proovile enne välisvõistlusi, võisteldes omavahel Tabasalu kardirajal
 seeMore: Loe edasi
 
 gallery:

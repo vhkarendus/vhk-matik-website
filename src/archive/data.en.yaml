@@ -27,6 +27,10 @@ events:
     title: VHK Inseneeripäev 2026
     url: /vhkinseneeriapaev2026
     text: VHK and Miikaeli Ühendus organized VHK Inseneeriapäev 2026
+  competition:
+    title: MATIK competition 2026
+    url: /competition2026
+    text: The MATIK competition at the Tabasalu karting track
 seeMore: Read more
 
 gallery:
